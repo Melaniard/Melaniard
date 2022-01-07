@@ -3,15 +3,19 @@
 
 - 👯 Uno de los trabajos que mas me gustó hacer fue el de [Countries - SPA](https://github.com/Melaniard/Countries-PI)
 
-- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí:](https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false)
+- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí](https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false)
 
-- 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. **Actualmente me encuentro aprendiendo sobre Angular.**
+- 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
+**Actualmente me encuentro aprendiendo sobre Angular.**
 
 - Podes contactarme via E-mail: **dabrowskimelaniar@gmail.com**
 
 - 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [https://novoresume.com/file/pdf/resume/get/1641559325410c4d72ef05c6d11ecad364db08654ee260xoj96fpi6ck2fb1wc93n7vhwjqgif6kqiyzf00luk4u7bimcpfx3uaviwt0e2p1yo8buqh5A4i49mniwqiwr1qnk4db88l4ol4e1pt3a3gsk3wddpipuA2fg7dpclze54gtixp1lcuio7fqo83z4t3k2grlxlnvc517fvwn2qf4y2ax00bzkbst9fu7A77l6eegg](https://novoresume.com/file/pdf/resume/get/1641559325410c4d72ef05c6d11ecad364db08654ee260xoj96fpi6ck2fb1wc93n7vhwjqgif6kqiyzf00luk4u7bimcpfx3uaviwt0e2p1yo8buqh5A4i49mniwqiwr1qnk4db88l4ol4e1pt3a3gsk3wddpipuA2fg7dpclze54gtixp1lcuio7fqo83z4t3k2grlxlnvc517fvwn2qf4y2ax00bzkbst9fu7A77l6eegg)
 
-- ⚡ Tres cosas sobre mi: **🌙 AMO la astrología 🧙‍♀️ - 🏋️‍♀️ Disfruto de entrenar, es algo que no puede faltar en mi vida 💪 - 🧁 Estudié y trabajé como Profesional Pastelera 🍪**
+- ⚡ Tres cosas sobre mi: 
+**🌙 AMO la astrología 🧙‍♀️ 
+🏋️‍♀️ Disfruto de entrenar, es algo que no puede faltar en mi vida 💪 
+🧁 Estudié y trabajé como Profesional Pastelera 🍪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
