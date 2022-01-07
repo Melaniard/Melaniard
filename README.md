@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 👋, Mi nombre es Melania, pero me dicen MEL🙂</h1>
 <h3 align="center">👩🏽‍💻 Soy desarrolladora FullStack, pero me apasiona el frontEnd 👩🏽‍💻</h3>
 
-- 👯 Uno de los trabajos que mas me gustó hacer fue el de [Countries - SPA](https://github.com/Melaniard/Countries-PI)
+- 👯 Último trabajo que realicé y el que mas me gustó hacer: [Countries - SPA](https://github.com/Melaniard/Countries-PI)
 
 - 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí.](https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false)
 
