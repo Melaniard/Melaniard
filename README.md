@@ -1,23 +1,17 @@
 <h1 align="center">Hello world! 👋, Mi nombre es Melania, pero me dicen MEL🙂</h1>
 <h3 align="center">👩🏽‍💻 Soy desarrolladora FullStack, pero me apasiona el frontEnd 👩🏽‍💻</h3>
 
-- 👯 Último trabajo que realicé y el que mas me gustó hacer: [Countries - SPA](https://github.com/Melaniard/Countries-PI)
+- 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
 
 - 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí.](https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false)
 
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 **Actualmente me encuentro aprendiendo sobre Angular.**
 
-- Podes contactarme via E-mail: **dabrowskimelaniar@gmail.com**
-
 - 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [Curriculum vitae - Melania Dabrowski](https://novoresume.com/file/pdf/resume/get/1641559325410c4d72ef05c6d11ecad364db08654ee260xoj96fpi6ck2fb1wc93n7vhwjqgif6kqiyzf00luk4u7bimcpfx3uaviwt0e2p1yo8buqh5A4i49mniwqiwr1qnk4db88l4ol4e1pt3a3gsk3wddpipuA2fg7dpclze54gtixp1lcuio7fqo83z4t3k2grlxlnvc517fvwn2qf4y2ax00bzkbst9fu7A77l6eegg)
 
-- ⚡ Tres cosas sobre mi: 
-**🌙 AMO la astrología 🧙‍♀️ 
-🏋️‍♀️ Disfruto de entrenar, es algo que no puede faltar en mi vida 💪 
-🧁 Estudié y trabajé como Profesional Pastelera 🍪**
-
 <h3 align="left">Connect with me:</h3>
+- Podes contactarme via E-mail: **dabrowskimelaniar@gmail.com**
 <p align="left">
 <a href="https://dev.to/https://dev.to/melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/melaniard" height="30" width="40" /></a>
 <a href="https://twitter.com/_melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_melaniard" height="30" width="40" /></a>
