@@ -8,7 +8,7 @@
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 **Actualmente me encuentro aprendiendo sobre Angular.**
 
-- 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [Curriculum vitae - Melania Dabrowski](https://novoresume.com/file/pdf/resume/get/1641559325410c4d72ef05c6d11ecad364db08654ee260xoj96fpi6ck2fb1wc93n7vhwjqgif6kqiyzf00luk4u7bimcpfx3uaviwt0e2p1yo8buqh5A4i49mniwqiwr1qnk4db88l4ol4e1pt3a3gsk3wddpipuA2fg7dpclze54gtixp1lcuio7fqo83z4t3k2grlxlnvc517fvwn2qf4y2ax00bzkbst9fu7A77l6eegg)
+- 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [Curriculum vitae - Melania Dabrowski](https://drive.google.com/file/d/1RphTSrlDSCu10z5qeOHgyY20yc39OduW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 - Podes contactarme via E-mail: **dabrowskimelaniar@gmail.com**
