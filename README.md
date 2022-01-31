@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋, Mi nombre es Melania, pero me dicen MEL🙂</h1>
+<h1 align="center">Hello world! 👋, desde ahora.. decime MEL 🙂</h1>
 <h3 align="center">👩🏽‍💻 Soy desarrolladora FullStack, pero me apasiona el frontEnd 👩🏽‍💻</h3>
 
 - 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
@@ -11,7 +11,7 @@
 - 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [Curriculum vitae - Melania Dabrowski](https://drive.google.com/file/d/1RphTSrlDSCu10z5qeOHgyY20yc39OduW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-- Podes contactarme via E-mail: **dabrowskimelaniar@gmail.com**
+- Podes contactarme via E-mail: dabrowskimelaniar@gmail.com
 <p align="left">
 <a href="https://dev.to/https://dev.to/melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/melaniard" height="30" width="40" /></a>
 <a href="https://twitter.com/_melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_melaniard" height="30" width="40" /></a>
