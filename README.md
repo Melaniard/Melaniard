@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋, desde ahora.. decime MEL 🙂</h1>
+<h1 align="center">Hello world! 👋 Por favor, decime Mel 🙂</h1>
 <h3 align="center">👩🏽‍💻 Soy desarrolladora FullStack, pero me apasiona el frontEnd 👩🏽‍💻</h3>
 
 - 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
