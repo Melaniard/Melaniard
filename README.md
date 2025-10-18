@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 👋 Soy Mel 🙂</h1>
-<h3 align="center">👩🏽‍💻 Soy una FullStack desginer, apasionada por el frontEnd y todo lo relacionado con la experiencia de usurio 👩🏽‍💻</h3>
+<h3 align="center">👩🏽‍💻 FullStack desginer, apasionada por el frontEnd y todo lo relacionado con la experiencia de usurio 👩🏽‍💻</h3>
 
 - 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
 
