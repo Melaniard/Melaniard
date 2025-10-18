@@ -3,7 +3,7 @@
 
 - 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
 
-- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí.]([https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false](https://www.goodreads.com/book/show/35852435-becoming-supernatural?from_search=true&from_srp=true&qid=f0ddlS7ws9&rank=1))
+- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer.
 
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 **Actualmente me encuentro aprendiendo sobre Angular.**
