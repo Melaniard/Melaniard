@@ -1,17 +1,16 @@
-<h1 align="center">Hello world! 👋 Por favor, decime Mel 🙂</h1>
-<h3 align="center">👩🏽‍💻 Soy desarrolladora FullStack, pero me apasiona el frontEnd 👩🏽‍💻</h3>
+<h1 align="center">Hello world! 👋 Soy Mel 🙂</h1>
+<h3 align="center">👩🏽‍💻 Soy una FullStack desginer, apasionada por el frontEnd y todo lo relacionado con la experiencia de usurio 👩🏽‍💻</h3>
 
 - 👯 Último trabajo que realicé y el que más me gustó hacer: [VIDEOGAMES - SPA](https://github.com/Melaniard/Project-Videogames)
 
-- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí.](https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false)
+- 💬 Siempre tengo un libro disponible, pero me encanta cuando suelen recomendarme alguno nuevo para leer. [Acá te dejo el último que leí.]([https://books.google.com.ar/books/about/Elon_Musk.html?id=1yxEDAAAQBAJ&printsec=frontcover&source=kp_read_button&hl=es&redir_esc=y#v=onepage&q&f=false](https://www.goodreads.com/book/show/35852435-becoming-supernatural?from_search=true&from_srp=true&qid=f0ddlS7ws9&rank=1))
 
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que me vinculo día a día. 
 **Actualmente me encuentro aprendiendo sobre Angular.**
 
-- 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi hoja de vida disponible: [Curriculum vitae - Melania Dabrowski](https://drive.google.com/file/d/1RphTSrlDSCu10z5qeOHgyY20yc39OduW/view?usp=sharing)
+- 📄 Si queres conocer más sobre mi experiencia profesional, te dejo mi Linkedin y estemos conectados: https://www.linkedin.com/in/dabrowskimelaniar/
 
 <h3 align="left">Connect with me:</h3>
-- Podes contactarme via E-mail: dabrowskimelaniar@gmail.com
 <p align="left">
 <a href="https://dev.to/https://dev.to/melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/melaniard" height="30" width="40" /></a>
 <a href="https://twitter.com/_melaniard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_melaniard" height="30" width="40" /></a>
